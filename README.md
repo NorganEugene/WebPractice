@@ -1,2 +1,2 @@
 # WebPractice
-practicing web development
+practicing web development using the odin project
